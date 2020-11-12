@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-reverse-engineering PUBLIC "-//Hibernate/Hibernate Reverse Engineering DTD 3.0//EN" "http://hibernate.org/dtd/hibernate-reverse-engineering-3.0.dtd" >
+
+<hibernate-reverse-engineering>
+  <table-filter match-schema="public" match-name="agama"/>
+  <table-filter match-schema="public" match-name="karyawan"/>
+  <table-filter match-schema="public" match-name="kategori_kemampuan"/>
+  <table-filter match-schema="public" match-name="kemampuan"/>
+  <table-filter match-schema="public" match-name="lembur_bonus"/>
+  <table-filter match-schema="public" match-name="list_kemampuan"/>
+  <table-filter match-schema="public" match-name="parameter"/>
+  <table-filter match-schema="public" match-name="parameter_pajak"/>
+  <table-filter match-schema="public" match-name="pendapatan"/>
+  <table-filter match-schema="public" match-name="penempatan"/>
+  <table-filter match-schema="public" match-name="posisi"/>
+  <table-filter match-schema="public" match-name="presentase_gaji"/>
+  <table-filter match-schema="public" match-name="tingkatan"/>
+  <table-filter match-schema="public" match-name="tunjangan_pegawai"/>
+  <table-filter match-schema="public" match-name="user"/>
+</hibernate-reverse-engineering>
